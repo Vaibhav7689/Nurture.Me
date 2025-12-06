@@ -5,7 +5,7 @@ import ShooterGame from './ShooterGame'
 import WorkoutWheel from './WorkoutWheel'
 
 import game1 from '../assets/breathingtiles.png'
-import game2 from '../assets/Workoutwheel.png'
+import game2 from '../assets/workoutwheel.png'
 import game3 from '../assets/positiverun.png'
 
 const MiniGames = () => {
